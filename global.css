@@ -2,7 +2,7 @@
 padding: 0;
 margin: 0;
 box-sizing: border-box;
-background-color: rgb(214, 230, 230);
+background-color: hsl(47,88%, 63%);
 }
 
 h1{
@@ -13,4 +13,21 @@ h1{
   font-style: italic;
   font-weight: 300;
   font-size: 2rem;
+}
+.card{
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: black;
+  border-radius: 10px;
+  justify-items: center;
+  align-items: center;
+  margin-left: 59px;
+  margin-top: 50px;
+}
+  .align-items{center;
+}
+
+.blog-img{
+  margin-top: 50px;
+  padding: 20px;
+  width: 300px;
 }
